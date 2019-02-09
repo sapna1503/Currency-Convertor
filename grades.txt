@@ -1,0 +1,9 @@
+Two layouts				25/25
+Convert button works	25/25
+Correct values displayed when rotate device	15/15
+User can only enter decimal values in fields	10/10
+Non numeric text in string resource	15/15
+Coding style	10/10
+resulting display two decimal values (optional)	5/5
+
+Total   105/100

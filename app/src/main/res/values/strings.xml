@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConvertor</string>
+    <string name="usd_amount">USD Amount</string>
+    <string name="inr_amount">INR Amount</string>
+    <string name="convert">Convert</string>
+    <string name="usdText">USD</string>
+    <string name="inrText">INR</string>
+    <string name="missing_amount_error_message">Please enter USD or INR Amount</string>
+</resources>
