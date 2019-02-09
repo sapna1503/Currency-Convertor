@@ -1,6 +1,4 @@
 # Currency-Convertor
-Android Mobile Application Development.
-
 Create an app that converts USD to INR and INR to USD. 
 Use the rate 1 INR = 0.016 USD and 1 USD = 63.89 INR. 
 
